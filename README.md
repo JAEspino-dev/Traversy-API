@@ -6,7 +6,7 @@ A youtube creator puts out amazing content, this is my take on his work!
 2. Instantly view all kinds of different demos! 
 
 # 📷 Images
-<img width="1143" height="1022" alt="Screenshot 2026-10-05 at 1 18 25 AM" src="https://github.com/user-attachments/assets/78a7fdf3-5612-4f78-a924-e9a8aedab197" />
+<img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/153fd414-6790-4bcd-85b7-94095d05f631" />
 
 # ✨ Features
 * Responsive design for desktop and mobile        
